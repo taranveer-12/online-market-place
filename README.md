@@ -1,1 +1,2 @@
 # online-market-place
+This Django-based online marketplace allows users to buy and sell products with features such as user authentication, product management, and a secure checkout process. Sellers can list items, manage their profiles, and track orders, while buyers can browse through products using search and filtering options. The app integrates a shopping cart, order history, and supports real-time status updates for orders. Admins have access to a control panel to manage users, products, and transactions.
